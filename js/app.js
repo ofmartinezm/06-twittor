@@ -2,8 +2,8 @@
 var url=window.location.href;
 var SwLocation='/06-twittor/sw.js';
 
-if (navigator.serviceWorker){
-    if(url.includes('localhost'){
+if (navigator.serviceWorker){ 
+    if(url.includes('localhost')){
         SwLocation='/sw.js';
     }
 
