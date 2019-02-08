@@ -1,8 +1,8 @@
 //imports
 importScripts('js/sw-utils.js')
 const STATIC_CACHE= 'static_v3';
-const DINAMIC_CACHE= 'dinamic_v1';
-const INMUTABLE_CACHE= 'inmutable_v1';
+const DINAMIC_CACHE= 'dinamic_v2';
+const INMUTABLE_CACHE= 'inmutable_v2';
 
 
 //corazon de mi aplicación lo que se debe cargar mas rápido
