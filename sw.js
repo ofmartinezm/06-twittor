@@ -7,7 +7,7 @@ const INMUTABLE_CACHE= 'inmutable_v1';
 
 //corazon de mi aplicación lo que se debe cargar mas rápido
 const APP_SHEL =[
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
